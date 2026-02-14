@@ -31,23 +31,24 @@ Designed for beginners but structured like a professional project.
 ✅ No frameworks — pure frontend
 
 🌍 Supported Currencies & Countries
-Code            	Currency	           Country
 
-PKR	            Pakistani Rupee       	Pakistan
+Code  |          	Currency	 |           Country
 
-INR            	Indian Rupee	          India
+PKR	        |     Pakistani Rupee  |      	Pakistan
 
-USD	            US Dollar	              United States
+INR       |      	Indian Rupee	 |          India
 
-GBP           	Pound Sterling	        United Kingdom
+USD	        |     US Dollar	   |            United States
 
-EUR	            Euro	                  Germany, France
+GBP       |     	Pound Sterling	    |     United Kingdom
 
-AED	            UAE Dirham	            United Arab Emirates
+EUR	   |          Euro	        |           Germany, France
 
-CAD	            Canadian Dollar        	Canada
+AED	     |        UAE Dirham	   |          United Arab Emirates
 
-AUD           	Australian Dollar	     Australia
+CAD	     |        Canadian Dollar  |       	Canada
+
+AUD    |        	Australian Dollar	  |    Australia
 
 📁 Project Structure
 
