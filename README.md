@@ -1,22 +1,23 @@
 # Currency-Converter
-💱 Currency Converter Web App (Frontend Only)
+# 💱 Currency Converter Web App (Frontend Only)
 
 A modern, responsive Currency Converter built using pure HTML, CSS, and JavaScript.
 
 This frontend application allows users to convert currencies between different countries with:
 
-✔ Country flags
+**✔ Country flags**
 
-✔ Swap animation
+**✔ Swap animation**
 
-✔ Loading spinner
+**✔ Loading spinner**
 
-✔ Clean UI
+**✔ Clean UI**
 
 Designed for beginners but structured like a professional project.
 
+---
 
-🚀 Features
+## 🚀 Features
 
 ✅ Real-time style currency conversion
 
@@ -30,35 +31,41 @@ Designed for beginners but structured like a professional project.
 
 ✅ No frameworks — pure frontend
 
-🌍 Supported Currencies & Countries
+---
 
-Code  |          	Currency	 |           Country
+## 🌍 Supported Currencies & Countries
 
-PKR	        |     Pakistani Rupee  |      	Pakistan
+**Code**  |          **Currency** |           **Country**
 
-INR       |      	Indian Rupee	 |          India
+PKR	        **|**    Pakistani Rupee  **|**     	Pakistan
 
-USD	        |     US Dollar	   |            United States
+INR       **|**      	Indian Rupee	 **|**          India
 
-GBP       |     	Pound Sterling	    |     United Kingdom
+USD	        **|**     US Dollar	   **|**            United States
 
-EUR	   |          Euro	        |           Germany, France
+GBP       **|**     	Pound Sterling	    **|**     United Kingdom
 
-AED	     |        UAE Dirham	   |          United Arab Emirates
+EUR	   **|**          Euro	        **|**           Germany, France
 
-CAD	     |        Canadian Dollar  |       	Canada
+AED	     **|**        UAE Dirham	   **|**          United Arab Emirates
 
-AUD    |        	Australian Dollar	  |    Australia
+CAD	     **|**        Canadian Dollar  **|**       	Canada
 
-📁 Project Structure
+AUD    **|**        	Australian Dollar	  **|**    Australia
 
-index.html   → UI layout
+---
 
-style.css    → design + animations
+## 📁 Project Structure
 
-script.js    → currency logic
+**index.html**   → UI layout
 
-▶ How to Run
+**style.css**    → design + animations
+
+**script.js**    → currency logic
+
+---
+
+## ▶ How to Run
 
 Open project in VS Code
 
@@ -68,13 +75,17 @@ Open with Live Server
 
 Done.
 
-📌 Important
+---
+
+## 📌 Important
 
 Conversion currency codes se hoti hai (USD, PKR, EUR etc)
 
 Country names & flags sirf visual ke liye hain.
 
-📷 Screenshots
+---
+
+## 📷 Screenshots
 
 <img width="1190" height="618" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/ced13db6-837b-4085-b73f-c28e77cdea9c" />
 
@@ -84,8 +95,9 @@ Country names & flags sirf visual ke liye hain.
 
 <img width="1098" height="584" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/20825dad-d90e-40af-a383-3206df1f59db" />
 
+---
 
-🧠 Skills You Learn
+## 🧠 Skills You Learn
 
 • JavaScript DOM manipulation
 
@@ -99,5 +111,13 @@ Country names & flags sirf visual ke liye hain.
 
 ⭐ If you like this project — give it a star on GitHub!
 
+---
 
+## 📝 Author
+
+Silent eXpert|Zarnab Fatima
+
+Software Engineer 
+
+---
 
